@@ -1,3 +1,9 @@
-p{
-    text-aling: center;
+body{
+ background: #ccc
+}
+p {
+    text-align: center;
+}
+em strong {
+    color: aquamarine;
 }
